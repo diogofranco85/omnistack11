@@ -63,16 +63,19 @@ export default function Incidents(){
                     </section>
                     <form onSubmit={handleNewIncident}>
                         <input 
+                            required={true}
                             placeholder="Título do caso"
                             value={title}
                             onChange={e => setTitle(e.target.value)}
                         />
-                        <textarea 
+                        <textarea
+                            required={true} 
                             placeholder="Descrição" 
                             value={description}
                             onChange={e => setDescription(e.target.value) }/>
 
                         <input 
+                            required={true}
                             placeholder="Valor em R$"
                             value={value}
                             onChange={e => setValue(e.target.value)}
