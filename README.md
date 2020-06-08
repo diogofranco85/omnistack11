@@ -7,7 +7,7 @@
 
 Desenvolvimento de uma aplicação completa passando pela API em node, FrontEnd em ReactJS e finalizando no App mobile usando o react.js
 
-![](../header.png)
+![](./frontend.jpg)
 
 
 
