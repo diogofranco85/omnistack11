@@ -1,11 +1,22 @@
 # 11ª Semana Omnistack
 > Renovando e aprendendo sempre. Obrigado a equipe da Rocketseat por porporcionar essa ótima semana de apredizagem.
 
+### D5 Apps | Você mais perto do seu Cliente
+> Acreditar e buscar novas tecnologias e novos conhecimento nunca deixando se acomodar isso é ser um Dev
+
+![](https://www.d5apps.com.br/public/images/logo.png)
+
+
+
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
+
+
 Desenvolvimento de uma aplicação completa passando pela API em node, FrontEnd em ReactJS e finalizando no App mobile usando o react.js
+
+
 
 ![](./frontend.jpg)
 
